@@ -1,14 +1,15 @@
+/*This is my comment*/
 body {
     background-color: lightblue;
   }
   
   h1 {
    color: white); 
-   text-align: center;
+   text-align:left;
   }
   
   h2 {
-   color:white);
+   color:rgb(241, 171, 241));
    
   
   p {
